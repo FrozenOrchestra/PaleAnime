@@ -19,6 +19,7 @@ My Personal Dotfiles:
   - Terminal : [urxvt](https://wiki.archlinux.org/index.php/rxvt-unicode)
   - Font : [Iosevka](https://aur.archlinux.org/packages/ttc-iosevka/)
   - Wallpaper Artist : [焦茶](https://www.pixiv.net/en/users/12845810)
+  - Terminal colour scheme in .Xresources
   
 ![alt text](https://github.com/FrozenOrchestra/PaleAnime/blob/main/2020-11-19-164845_2560x1080_scrot.png)
 ![alt text](https://github.com/FrozenOrchestra/PaleAnime/blob/main/2020-11-19-165614_2560x1080_scrot.png)
