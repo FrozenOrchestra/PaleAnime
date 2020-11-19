@@ -3,6 +3,7 @@
 #unixporn Dotfiles for my i3 Rice
 
 Inspired by : [u/Welcome_To_heaven's r/unixporn post](https://www.reddit.com/r/unixporn/comments/jupmda/aquayabai_a_fun_colorful_rice_to_brighten_my/)
+
 Spotify Polybar based on : [DarkReaper231's dotfiles](https://github.com/DarkReaper231/blacknwhite)
 
 My Personal Dotfiles:
