@@ -12,3 +12,7 @@ My Personal Dotfiles:
   - Text Editor : [Vim](https://www.vim.org/)
   - Terminal : [urxvt](https://wiki.archlinux.org/index.php/rxvt-unicode)
   - Font : [Iosevka](https://aur.archlinux.org/packages/ttc-iosevka/)
+  
+  ![alt text](https://github.com/FrozenOrchestra/PaleAnime/blob/main/2020-11-19-164845_2560x1080_scrot.png)
+  ![alt text](https://github.com/FrozenOrchestra/PaleAnime/blob/main/2020-11-19-165614_2560x1080_scrot.png)
+  ![alt text](https://github.com/FrozenOrchestra/PaleAnime/blob/main/2020-11-19-172506_2560x1080_scrot.png)
