@@ -9,6 +9,8 @@ Spotify Polybar based on : [DarkReaper231's dotfiles](https://github.com/DarkRea
 My Personal Dotfiles:
   - OS : Manjaro Linux x86_64
   - DE : i3gaps
+  - Compositor : [Picom-ibhagwan](https://github.com/ibhagwan/picom)
+  - Notification Daemon : [Dunst](https://dunst-project.org/)
   - Bar : [Polybar](https://github.com/polybar/polybar)
   - Time Widget : [Conky](https://github.com/brndnmtthws/conky)
   - Wallpaper Browser : [Nitrogen](https://wiki.archlinux.org/index.php/nitrogen)
