@@ -1,0 +1,62 @@
+Xft.dpi:       96
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.autohint:  false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+XTerm*background:        #292828
+XTerm*foreground:        #d8be93
+XTerm*pointerColor:      #1ABB9B
+XTerm*faceName:          Fixed
+XTerm*faceSize:          11
+XTerm*reverseVideo:      on
+XTerm*selectToClipboard: true
+
+! special
+*.foreground:   #d8be93
+*.background:   #292828
+*.cursorColor:  #d8be93
+
+! black
+*.color0:       #a4b858
+*.color8:       #c8e069
+
+! red
+*.color1:       #f4843e
+*.color9:       #f79a5e
+
+! green
+*.color2:       #7cb77c
+*.color10:      #99e39a
+
+! yellow
+*.color3:       #e1a546
+*.color11:      #ffc365
+
+! blue
+*.color4:       #70b4a7
+*.color12:      #84d0c2
+
+! magenta
+*.color5:       #e0809b
+*.color13:      #ff93b1
+
+! cyan
+*.color6:       #6ea9b0
+*.color14:      #83ccd2
+
+! white
+*.color7:       #edd6b2
+*.color15:      #f4eada
+
+URxvt.font:                       9x15,xft:IosevkaRegular
+
+URxvt*scrollBar:                  false
+URxvt*mouseWheelScrollPage:       false
+
+! Normal copy-paste keybindings without perls
+URxvt.iso14755:                   false
+URxvt.keysym.Shift-Control-V:     eval:paste_clipboard
+URxvt.keysym.Shift-Control-C:     eval:selection_to_clipboard
